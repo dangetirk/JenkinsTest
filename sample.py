@@ -7,7 +7,7 @@ def factorial(n):
 
 # Get user input
 try:
-    user_input = int(input("Enter a non-negative integer to calculate its factorial: "))
+    user_input = 7
     
     # Check if the input is non-negative
     if user_input < 0:
